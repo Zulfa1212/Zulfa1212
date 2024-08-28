@@ -12,4 +12,6 @@ I’m looking to use my skills in cybersecurity to tackle interesting problems a
 <img src="https://img.shields.io/badge/-Introduction%20to%20Cybersecurity-004B87?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
-## Projects
+## Mini Projects
+- Calculate and print student grades
+- Calculate final GPA
