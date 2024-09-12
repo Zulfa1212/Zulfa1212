@@ -14,4 +14,4 @@ I’m looking to use my skills in cybersecurity to tackle interesting problems a
 
 ## Mini Projects
 - [Student Grades Project](https://github.com/Zulfa1212/student-grades-project)
-- Calculate final GPA
+-  Dice Roll Game
